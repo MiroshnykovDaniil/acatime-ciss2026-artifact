@@ -17,13 +17,15 @@ No .NET installation is needed:
 make verify
 ```
 
-This runs `scripts/verify_aggregates.py`, which checks:
+This runs `scripts/verify_aggregates.py` and
+`scripts/verify_development.py`. It checks:
 
 - exactly 17 rows in `runs.csv`;
 - every `percent` equals `delta / default_score * 100`;
 - the reported 22.41–80.79% range, median 43.30% and mean 47.51%;
 - SHA-256 checksums of the per-run summaries;
-- the sanitized-log manifest and hashes.
+- the sanitized validation-log manifest and hashes;
+- the curated `development/` manifest and file counts.
 
 Expected output includes:
 

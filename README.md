@@ -26,6 +26,9 @@ this repository. The companion ITC 2019 artifact is archived at
   running the GA, and scoring solutions with the independent ITC scorer.
 - **Validation evidence:** 17 faculty-scale runs, aggregate CSV, per-run
   summaries, and gzip-compressed sanitized logs.
+- **Development reference runs:** a small curated `development/` set for the
+  engineering claims (clone/COW/clone-fix, parallel candidate comparison and
+  cheap-evaluation per-rule table). These are not validation runs.
 - **Checks:** SHA-256 manifests and scripts that recompute the range, median and
   per-run percentages.
 
@@ -67,6 +70,7 @@ code/
 configs/          shared validation parameters
 summaries/        per-run source summaries + SHA-256 manifest
 logs/             sanitized gzip logs + manifest
+development/      curated engineering before/after snapshots
 runs.csv          consolidated 17-run results
 scripts/          aggregate verifier and log sanitizer
 docs/             privacy, provenance, sanitization, claims, reproduction
@@ -123,6 +127,19 @@ Files:
 - `docs/privacy.md` — what is withheld and why;
 - `docs/log-sanitization.md` — exact sanitization rules.
 
+## Development reference runs
+
+`development/` contains a deliberately small set of before/after snapshots for
+the engineering measurements in the paper. It is not part of the 17-run
+validation result and must not be aggregated with it.
+
+- `development/clone/` — three single-run clone/COW/clone-fix snapshots;
+- `development/parallel/` — the 5-run parallel batch plus two 5-run candidate
+  sequential baselines (mapping unconfirmed);
+- `development/cheap-eval/` — per-rule speedup table.
+
+See `development/README.md` and `development/claims.csv` for the caveats.
+
 ## Verify
 
 ```bash
@@ -137,6 +154,12 @@ min: 22.4114
 max: 80.7947
 median: 43.2971
 all checks passed
+development logs: 18
+clone snapshots: 3
+parallel logs: 15
+per-rule rows: 7
+trajectory batches: 50
+development checks passed
 ```
 
 ## Licensing

@@ -50,3 +50,19 @@ The 17 runs come from these `benchmark-results` directories:
 ```
 
 The range and median are computed only from these 17 rows.
+
+## Engineering claims (development section)
+
+The engineering measurements in the paper are **development observations**, not
+part of the 17-run validation result. The curated reference runs are in
+`development/`.
+
+| Claim | Evidence | Caveat |
+|---|---|---|
+| COW clone 52.1 s → 13.6 s | `development/clone/20260830-212640`, `20260830-213228` | single run at each point |
+| Clone consistency 894 → 1,361 iterations | `development/clone/20260830-213228`, `20260830-215343` | single run at each point |
+| Parallel lineage comparison | `development/parallel/20260831-131812` + candidate baselines `20260831-120250`, `20260831-121008` | baseline mapping unconfirmed; do not cite +17% until confirmed |
+| Cheap delta 3.2–34.7×; average 9.2× | `development/cheap-eval/per-rule.csv` | benchmark measurements, not run logs |
+
+`development/claims.csv` gives the machine-readable mapping. The development
+section must not be combined with the 17 validation rows.

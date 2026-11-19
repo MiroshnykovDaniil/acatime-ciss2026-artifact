@@ -1,0 +1,182 @@
+[
+  {
+    "group": "clone",
+    "source_dir": "20260830-212640",
+    "source": "20260830-212640/run-1.log",
+    "output": "development/clone/20260830-212640/run-1.log.gz",
+    "source_sha256": "6aeeeb5301e9630008a338f9dcf9c33b1a7adbce137729a3f769e40890c2c0f1",
+    "output_sha256": "f6394ed2a48f6c97f2572c0cdf480f7cdf854154a259193fc6c9376644cd1125",
+    "summary": "development/clone/20260830-212640/summary.csv",
+    "summary_sha256": "2467c160a11d8e7d4ea01c7778a181151542226865adf97aa6040abf3495e196"
+  },
+  {
+    "group": "clone",
+    "source_dir": "20260830-213228",
+    "source": "20260830-213228/run-1.log",
+    "output": "development/clone/20260830-213228/run-1.log.gz",
+    "source_sha256": "401ad762474146077f2cdf47e14e4b8722856111a6786f40e9dbbbd64ec5bae0",
+    "output_sha256": "6cf91222c78364e01b07c6f0347d6b2fb76a6e34b397bb93ba93bc7ab422a48f",
+    "summary": "development/clone/20260830-213228/summary.csv",
+    "summary_sha256": "00b8ebf0c55b148b5040eb041e7fc3ec31f04fad13510b6dc43ba41b3687b72b"
+  },
+  {
+    "group": "clone",
+    "source_dir": "20260830-215343",
+    "source": "20260830-215343/run-1.log",
+    "output": "development/clone/20260830-215343/run-1.log.gz",
+    "source_sha256": "d96a3b10f506ef044c1f07ecb817975145216586a6dc8f5650c21efca169cbb2",
+    "output_sha256": "5409107f65a1e230d90e06bd8aa22a2d1f8108e97544375205a6b7a6c479581a",
+    "summary": "development/clone/20260830-215343/summary.csv",
+    "summary_sha256": "c6e0c5240cb44eb1fa618121a851ce09de460ef3c312900e089b71d932595329"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-131812",
+    "source": "20260831-131812/run-1.log",
+    "output": "development/parallel/20260831-131812/run-1.log.gz",
+    "source_sha256": "9dc0933325864da85b1cce05ebbe5b05fef0d1e455105cd72a1510df220e3bf7",
+    "output_sha256": "0c36b03e5e34b37ea2dc929d174f7895838ededfccc02c18f8eeac064e92ace0",
+    "summary": "development/parallel/20260831-131812/summary.csv",
+    "summary_sha256": "5b8ea5a6efc7e967799abce10529c8a7bbab8cbe6d209394f5d043cabae653c4"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-131812",
+    "source": "20260831-131812/run-2.log",
+    "output": "development/parallel/20260831-131812/run-2.log.gz",
+    "source_sha256": "9a19a07b363390a81f091d08cc03ba3eb9aef65d60aa192fda9171701036c1c6",
+    "output_sha256": "fb2ac121f83afa496ec00d6fd82543b7b702732986eb7a1074c3499d12d90139",
+    "summary": "development/parallel/20260831-131812/summary.csv",
+    "summary_sha256": "5b8ea5a6efc7e967799abce10529c8a7bbab8cbe6d209394f5d043cabae653c4"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-131812",
+    "source": "20260831-131812/run-3.log",
+    "output": "development/parallel/20260831-131812/run-3.log.gz",
+    "source_sha256": "17ebe893211b02fcb204567161d2dfd474f32aa45d36a27b0ee1eab782fe35b4",
+    "output_sha256": "29dc1e6a9ab360e18376a83afa4881073f8bc78d39b42a735320ba34e4852fe6",
+    "summary": "development/parallel/20260831-131812/summary.csv",
+    "summary_sha256": "5b8ea5a6efc7e967799abce10529c8a7bbab8cbe6d209394f5d043cabae653c4"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-131812",
+    "source": "20260831-131812/run-4.log",
+    "output": "development/parallel/20260831-131812/run-4.log.gz",
+    "source_sha256": "d8a97877b92585677b5da04c16a0e4a36fc9ed42e41ac23022c26fd7f0c313af",
+    "output_sha256": "a5d8531e8feb4ed58bfeed346a3f8c5f8c03ee841aab90320fa291f7f52ea6a6",
+    "summary": "development/parallel/20260831-131812/summary.csv",
+    "summary_sha256": "5b8ea5a6efc7e967799abce10529c8a7bbab8cbe6d209394f5d043cabae653c4"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-131812",
+    "source": "20260831-131812/run-5.log",
+    "output": "development/parallel/20260831-131812/run-5.log.gz",
+    "source_sha256": "46e46e325089aac784f0e3fdc017d34f7f4906cf6cba25cd5e85660288488aea",
+    "output_sha256": "e2f00f340646b76fd2a070eac91acec384d508cf46d838dc814e05404a43ea03",
+    "summary": "development/parallel/20260831-131812/summary.csv",
+    "summary_sha256": "5b8ea5a6efc7e967799abce10529c8a7bbab8cbe6d209394f5d043cabae653c4"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-120250",
+    "source": "20260831-120250/run-1.log",
+    "output": "development/parallel/20260831-120250/run-1.log.gz",
+    "source_sha256": "1214225e1470225463832e982fda3591ed436c24abcc374f674c3cb8281dabcb",
+    "output_sha256": "3d0012189d49e1a6a7cd94bbc488bdc13937129567c476345e37491bd5443063",
+    "summary": "development/parallel/20260831-120250/summary.csv",
+    "summary_sha256": "a6e4f202bc126b42d2b0620d608574d5ce54da704947d7ee56c69af4d8ee2d83"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-120250",
+    "source": "20260831-120250/run-2.log",
+    "output": "development/parallel/20260831-120250/run-2.log.gz",
+    "source_sha256": "cc495c4d3c7d88e4815b63a9004d61e551e630c6324221912820098954776793",
+    "output_sha256": "00549f33f08cd197e4f15666ced794f365f6e04505fcb79e7a7349317badc1a7",
+    "summary": "development/parallel/20260831-120250/summary.csv",
+    "summary_sha256": "a6e4f202bc126b42d2b0620d608574d5ce54da704947d7ee56c69af4d8ee2d83"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-120250",
+    "source": "20260831-120250/run-3.log",
+    "output": "development/parallel/20260831-120250/run-3.log.gz",
+    "source_sha256": "75b50ba14c243ae9366963f8e2f730dda0a16be5552f62b190e279f407b01855",
+    "output_sha256": "81be8116d0abaa0eb955de189e8f7e12c6bdc11f6c74f387b53d9644a4b359a9",
+    "summary": "development/parallel/20260831-120250/summary.csv",
+    "summary_sha256": "a6e4f202bc126b42d2b0620d608574d5ce54da704947d7ee56c69af4d8ee2d83"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-120250",
+    "source": "20260831-120250/run-4.log",
+    "output": "development/parallel/20260831-120250/run-4.log.gz",
+    "source_sha256": "d1c31c01f74da4316fa73172613f6f3f7aad5ca66e32771bbc83460436dbe8df",
+    "output_sha256": "db338b14768738914339aeaac207d6c4aacebe0d61794b1ca049866a30408150",
+    "summary": "development/parallel/20260831-120250/summary.csv",
+    "summary_sha256": "a6e4f202bc126b42d2b0620d608574d5ce54da704947d7ee56c69af4d8ee2d83"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-120250",
+    "source": "20260831-120250/run-5.log",
+    "output": "development/parallel/20260831-120250/run-5.log.gz",
+    "source_sha256": "cce3841a22143b4f0aee04f0bc54d4f9cfca3efd655bead831f07f500c13ea88",
+    "output_sha256": "36d30d2e96a26483eff9e4dd47f8bf78b3d5e704a0d4d1728a1d2bcdcea8aa7d",
+    "summary": "development/parallel/20260831-120250/summary.csv",
+    "summary_sha256": "a6e4f202bc126b42d2b0620d608574d5ce54da704947d7ee56c69af4d8ee2d83"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-121008",
+    "source": "20260831-121008/run-1.log",
+    "output": "development/parallel/20260831-121008/run-1.log.gz",
+    "source_sha256": "463f915983825619da475a8c32bf32376ff6c8aa2bc4a855cf039f7a99ad4253",
+    "output_sha256": "5f5d8fe61ec1bf99fb3872a0807ff2603551e4f985fbb5acd505f5bf4b19be70",
+    "summary": "development/parallel/20260831-121008/summary.csv",
+    "summary_sha256": "ea12345344f5587d43439de366c776266134ad35aa9c577fc46cf1ed74d22f50"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-121008",
+    "source": "20260831-121008/run-2.log",
+    "output": "development/parallel/20260831-121008/run-2.log.gz",
+    "source_sha256": "dad12e5d189cc6297dd0cc838d41a53a081c6c44f5658bf9851592ce0760a4f3",
+    "output_sha256": "dd46f056f08fc94a919e0e48d0165a660dbb0382c7129745f4aa075d88d83616",
+    "summary": "development/parallel/20260831-121008/summary.csv",
+    "summary_sha256": "ea12345344f5587d43439de366c776266134ad35aa9c577fc46cf1ed74d22f50"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-121008",
+    "source": "20260831-121008/run-3.log",
+    "output": "development/parallel/20260831-121008/run-3.log.gz",
+    "source_sha256": "99ab2fe364f727c50fd1c944cd3f420d1e5eea16f62193925ff3b7ce14b50ab1",
+    "output_sha256": "587f58d3fde2ae8361647893fe27ff5442d6db945155fa154af29c982121e497",
+    "summary": "development/parallel/20260831-121008/summary.csv",
+    "summary_sha256": "ea12345344f5587d43439de366c776266134ad35aa9c577fc46cf1ed74d22f50"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-121008",
+    "source": "20260831-121008/run-4.log",
+    "output": "development/parallel/20260831-121008/run-4.log.gz",
+    "source_sha256": "fca23e13fa6be5bba8097295affcb6c8bc243938596fb1e4215b2fe8b3983825",
+    "output_sha256": "a9b4ebb50f8430f07fdc53f2daa7119fb0b331337ef29dda60e43c1d65fdc164",
+    "summary": "development/parallel/20260831-121008/summary.csv",
+    "summary_sha256": "ea12345344f5587d43439de366c776266134ad35aa9c577fc46cf1ed74d22f50"
+  },
+  {
+    "group": "parallel",
+    "source_dir": "20260831-121008",
+    "source": "20260831-121008/run-5.log",
+    "output": "development/parallel/20260831-121008/run-5.log.gz",
+    "source_sha256": "eed184802987c0a7180fef80ba964556d42c1d04dd75687ed6fd815e2b39af3a",
+    "output_sha256": "f0bdb526051d4a3d5aee4c48b6f14cd34b6c7e8121e7e64d10dadf0e9b4bb841",
+    "summary": "development/parallel/20260831-121008/summary.csv",
+    "summary_sha256": "ea12345344f5587d43439de366c776266134ad35aa9c577fc46cf1ed74d22f50"
+  }
+]

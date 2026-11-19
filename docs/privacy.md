@@ -12,7 +12,8 @@ Those data are not included in this repository. This release contains only
 aggregate run results: scores, improvement percentages, durations and exit codes.
 
 No student names, teacher names, group names, course names or schedule cells are
-published. The published logs are sanitized: server addresses, paths and
+published. The curated development snapshots in `development/` are sanitized the
+same way as the validation logs; they are not raw production logs. The published logs are sanitized: server addresses, paths and
 institution-specific rule names are removed or replaced; see
 `docs/log-sanitization.md`.
 

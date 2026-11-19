@@ -1,0 +1,5 @@
+claim,source_dirs,logs,evidence_type,caveat
+Copy-on-write clone time 52.1 s -> 13.6 s,20260830-212640;20260830-213228,2,development snapshot,"single run at each point; code/configuration also changed"
+Clone consistency 894 -> 1361 iterations,20260830-213228;20260830-215343,2,development snapshot,"single run at each point; not a controlled ablation"
+Parallel lineage candidate comparison,20260831-131812;20260831-120250;20260831-121008,15,development comparison,"sequential baseline mapping is unconfirmed; do not cite +17% until confirmed"
+Cheap delta evaluation 3.2-34.7x per rule; average 9.2x,cheapeval-bench-20260830,0,per-rule benchmark,"benchmark program, not run logs; engine speedup may be higher"

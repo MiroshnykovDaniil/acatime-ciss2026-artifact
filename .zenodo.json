@@ -1,6 +1,6 @@
 {
   "title": "AcaTime CISS-2026 artifact: rule-aware incremental evaluation and validation logs",
-  "description": "Exact AcaTime genetic-algorithm source snapshot, local runner, public ITC 2019 bridge tools, and 17 anonymized faculty-scale validation runs with sanitized logs and aggregate checks. Raw faculty data, schedules and production logs are not included. Code is Apache-2.0; data, logs and documentation are CC BY 4.0.",
+  "description": "Exact AcaTime genetic-algorithm source snapshot, local runner, public ITC 2019 bridge tools, 17 anonymized faculty-scale validation runs with sanitized logs and aggregate checks, and a curated development section for the engineering before/after measurements. Raw faculty data, schedules and production logs are not included. Code is Apache-2.0; data, logs and documentation are CC BY 4.0.",
   "creators": [
     {
       "name": "Miroshnykov, Daniil",
@@ -25,7 +25,7 @@
     "validation logs",
     "reproducibility"
   ],
-  "notes": "Includes exact GA source snapshot, local runner, public ITC 2019 bridge tools, 17 validation runs and sanitized logs. Raw faculty data and production logs are withheld. Code is Apache-2.0; data and documentation are CC BY 4.0.",
+  "notes": "Includes exact GA source snapshot, local runner, public ITC 2019 bridge tools, 17 validation runs, sanitized validation logs, and curated development snapshots for engineering claims. Raw faculty data and production logs are withheld. Code is Apache-2.0; data and documentation are CC BY 4.0.",
   "related_identifiers": [
     {
       "identifier": "https://github.com/MiroshnykovDaniil/acatime-ciss2026-artifact",

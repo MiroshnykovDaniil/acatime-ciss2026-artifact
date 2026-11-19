@@ -4,7 +4,8 @@ title: "AcaTime CISS-2026 artifact: rule-aware incremental evaluation and valida
 abstract: >-
   Exact AcaTime genetic-algorithm source snapshot, local runner, public ITC 2019
   bridge tools, and 17 anonymized faculty-scale validation runs with sanitized
-  logs and aggregate checks. Raw faculty data, schedules and production logs are
+  logs and aggregate checks, plus curated development before/after snapshots
+  and the aggregated development trajectory. Raw faculty data, schedules and production logs are
   not included.
 type: dataset
 version: 0.1.0

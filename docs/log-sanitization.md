@@ -17,9 +17,13 @@ Retained:
 - final scores and runtimes;
 - exit information.
 
-The `scripts/sanitize_logs.py` script documents the exact transformation. It
-requires `ACATIME_BENCHMARK_RESULTS` to point at the internal benchmark-results
-directory; the public repo does not contain that directory.
+The sanitizers document the exact transformation:
+
+- `scripts/sanitize_logs.py` — 17 validation runs;
+- `scripts/sanitize_development_logs.py` — curated development snapshots.
+
+Both require `ACATIME_BENCHMARK_RESULTS` to point at the internal
+benchmark-results directory; the public repo does not contain that directory.
 
 ## What is not present
 

@@ -36,6 +36,12 @@ Sanitized, gzip-compressed `run-*.log.gz` files grouped by batch directory.
 No student, teacher, group, course or room names are present. See
 `log-sanitization.md`.
 
+## `development/`
+
+Curated engineering before/after snapshots. See `development/README.md` and
+`development/claims.csv`. These are not validation runs and must not be combined
+with `runs.csv`.
+
 ## `configs/validation-config.json`
 
 The shared GA parameters extracted from the validation run logs. Dynamic values
