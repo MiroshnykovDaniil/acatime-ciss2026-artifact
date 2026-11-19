@@ -12,7 +12,10 @@ version: 0.1.0
 date-released: 2026-11-19
 license: CC-BY-4.0
 repository-code: "https://github.com/MiroshnykovDaniil/acatime-ciss2026-artifact"
-url: "https://github.com/MiroshnykovDaniil/acatime-ciss2026-artifact"
+url: "https://doi.org/10.5281/zenodo.24369201"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24369201
 keywords:
   - university course timetabling
   - genetic algorithm

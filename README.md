@@ -11,8 +11,11 @@ It accompanies the CISS-2026 short paper:
 > Daniil Miroshnykov, Liudmyla Omelchuk. *Rule-aware incremental evaluation in a
 > hybrid genetic algorithm for university timetabling.* CISS-2026.
 
-**Status:** artifact prepared for CISS-2026. A Zenodo DOI is to be reserved for
-this repository. The companion ITC 2019 artifact is archived at
+**Archived version:** `v0.1.0` — DOI
+[10.5281/zenodo.24369201](https://doi.org/10.5281/zenodo.24369201)  
+**Concept DOI:** [10.5281/zenodo.24369200](https://doi.org/10.5281/zenodo.24369200)
+
+The companion ITC 2019 artifact is archived at
 [10.5281/zenodo.24083720](https://doi.org/10.5281/zenodo.24083720).
 
 ## What is included
@@ -173,5 +176,7 @@ See `LICENSES.md` and `THIRD_PARTY_NOTICES.md`.
 
 ## Citation
 
-Citation metadata is in `CITATION.cff`. Until a Zenodo DOI is reserved, cite
-this repository URL and the exact commit or tag.
+Citation metadata is in `CITATION.cff`. Cite version `v0.1.0` with DOI
+[10.5281/zenodo.24369201](https://doi.org/10.5281/zenodo.24369201), or use the
+concept DOI [10.5281/zenodo.24369200](https://doi.org/10.5281/zenodo.24369200)
+for all versions.
