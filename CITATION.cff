@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite it using the metadata below."
+title: "AcaTime CISS-2026 artifact: rule-aware incremental evaluation and validation logs"
+abstract: >-
+  Exact AcaTime genetic-algorithm source snapshot, local runner, public ITC 2019
+  bridge tools, and 17 anonymized faculty-scale validation runs with sanitized
+  logs and aggregate checks. Raw faculty data, schedules and production logs are
+  not included.
+type: dataset
+version: 0.1.0
+date-released: 2026-11-19
+license: CC-BY-4.0
+repository-code: "https://github.com/MiroshnykovDaniil/acatime-ciss2026-artifact"
+url: "https://github.com/MiroshnykovDaniil/acatime-ciss2026-artifact"
+keywords:
+  - university course timetabling
+  - genetic algorithm
+  - AcaTime
+  - incremental evaluation
+  - validation logs
+  - reproducibility
+authors:
+  - family-names: Miroshnykov
+    given-names: Daniil
+    affiliation: "Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics"
+    email: daniilmiroshnykov@knu.ua
+  - family-names: Omelchuk
+    given-names: Liudmyla
+    affiliation: "Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics"
+    email: l.omelchuk@knu.ua

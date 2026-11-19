@@ -1,0 +1,19 @@
+# .NET build outputs
+bin/
+obj/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+
+# Local run outputs
+build/
+
+# Downloaded ITC data (large; fetch with make itc-data)
+itc-data/*.xml
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/

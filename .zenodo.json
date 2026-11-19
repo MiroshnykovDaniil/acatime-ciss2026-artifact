@@ -1,0 +1,41 @@
+{
+  "title": "AcaTime CISS-2026 artifact: rule-aware incremental evaluation and validation logs",
+  "description": "Exact AcaTime genetic-algorithm source snapshot, local runner, public ITC 2019 bridge tools, and 17 anonymized faculty-scale validation runs with sanitized logs and aggregate checks. Raw faculty data, schedules and production logs are not included. Code is Apache-2.0; data, logs and documentation are CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Miroshnykov, Daniil",
+      "affiliation": "Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics"
+    },
+    {
+      "name": "Omelchuk, Liudmyla",
+      "affiliation": "Taras Shevchenko National University of Kyiv, Faculty of Computer Science and Cybernetics"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "version": "0.1.0",
+  "publication_date": "2026-11-19",
+  "language": "eng",
+  "keywords": [
+    "university course timetabling",
+    "genetic algorithm",
+    "AcaTime",
+    "incremental evaluation",
+    "validation logs",
+    "reproducibility"
+  ],
+  "notes": "Includes exact GA source snapshot, local runner, public ITC 2019 bridge tools, 17 validation runs and sanitized logs. Raw faculty data and production logs are withheld. Code is Apache-2.0; data and documentation are CC BY 4.0.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/MiroshnykovDaniil/acatime-ciss2026-artifact",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.24083720",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}
